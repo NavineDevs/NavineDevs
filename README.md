@@ -43,7 +43,7 @@ More project details are available on our website and repositories.
 
 For partnerships, collaboration, or general inquiries:
 
-**Email:** [support@navine.dev](mailto:support@navine.dev)
+* **Email:** [support@navine.dev](mailto:support@navine.dev)
 
 ---
 
